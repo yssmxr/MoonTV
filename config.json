@@ -80,6 +80,18 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    }
+    },
+      "liangzi": {
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "name": "量子资源"
+    },
+      "xinlang": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "新浪资源"
+    },
+      "xinlang": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "新浪资源"
+    },
   }
 }
