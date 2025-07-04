@@ -17,7 +17,7 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "线路4"
     },
-    "天涯资源": {
+    "tyzy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "线路5"
     },
