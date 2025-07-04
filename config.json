@@ -125,7 +125,7 @@
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
     },
-      "subo": {
+      "速播": {
       "api": "https://subocj.com/api.php/provide/vod",
       "name": "速播资源"
     }
